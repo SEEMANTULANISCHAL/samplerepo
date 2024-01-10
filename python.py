@@ -4,4 +4,5 @@ class Student:
         self.roll = 37
 
 s1 = Student()
+s2 = Student()
 print(s1.name)
